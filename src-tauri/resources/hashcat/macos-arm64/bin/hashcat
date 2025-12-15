@@ -1,0 +1,2 @@
+#!/bin/bash
+XDG_DATA_HOME="/opt/homebrew/Cellar/hashcat/7.1.2/share" exec "/opt/homebrew/Cellar/hashcat/7.1.2/bin/hashcat_bin"  "$@"
