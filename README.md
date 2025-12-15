@@ -197,7 +197,7 @@ excel-password-cracker-client/
 ## 📞 联系方式
 
 - **GitHub Issues**：[https://github.com/Jayden-X-L/excel-password-cracker-client/issues](https://github.com/Jayden-X-L/excel-password-cracker-client/issues)
-- **电子邮件**：your-email@example.com
+- **电子邮件**：xiaobiluo@gmail.com
 
 ## 🙏 致谢
 
