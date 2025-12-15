@@ -51,7 +51,6 @@ EPCC 是一个跨平台的 Excel 密码破解桌面应用，集成了 `hashcat` 
 从 [GitHub Releases](https://github.com/Jayden-X-L/excel-password-cracker-client/releases) 下载适合您系统的安装包：
 
 - **macOS**：`EPCC_*.dmg`
-- **Windows**：`EPCC_*.exe`
 
 ### 从源代码构建
 
