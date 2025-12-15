@@ -101,7 +101,7 @@
 如果您有任何关于安全或法律方面的问题，可以通过以下方式联系我们：
 
 - [GitHub Issues](https://github.com/Jayden-X-L/excel-password-cracker-client/issues)
-- [电子邮件](mailto:your-email@example.com)
+- [电子邮件](mailto:xiaobiluo@gmail.com)
 
 ## 📌 总结
 
