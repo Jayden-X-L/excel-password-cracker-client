@@ -7,7 +7,7 @@
 EPCC 是一个跨平台的 Excel 密码破解桌面应用，集成了 `hashcat` 和 `office2hashcat` 工具，提供友好的图形界面，支持多种密码攻击模式。
 
 ## 🌟 功能特性
-<img width="400" height="300" alt="ScreenShot_2025-12-15_222517_139" src="https://github.com/user-attachments/assets/2a28cf89-9e6d-4f11-86e7-9d66bc5faa3e" />
+<img width="500" height="350" alt="ScreenShot_2025-12-15_222517_139" src="https://github.com/user-attachments/assets/2a28cf89-9e6d-4f11-86e7-9d66bc5faa3e" />
 
 
 - **支持多种 Excel 版本**：Office 2007/2010/2013/2016/2019/2021
